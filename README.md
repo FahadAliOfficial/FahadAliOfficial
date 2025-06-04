@@ -67,8 +67,10 @@ OpenAI API · Gemini API · WebRTC · VSCode
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FahadAliOfficial-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahadali-official)
 [![GitHub](https://img.shields.io/badge/GitHub-FahadAliOfficial-181717?logo=github&logoColor=white)](https://github.com/FahadAliOfficial)
-[![Twitter](https://img.shields.io/badge/Twitter-@FahadAliOfcl-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/FahadAliOfcl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fahadali.dev-ff69b4?logo=google-chrome&logoColor=white)](https://fahadali.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-@_fahaddali-1DA1F2?logo=twitter&logoColor=white)]([https://twitter.com/FahadAliOfcl](https://x.com/_fahaddali))
+[![Portfolio](https://img.shields.io/badge/Portfolio-fahadali.me-ff69b4?logo=google-chrome&logoColor=white)](https://fahadali.me)
+[![Dev](https://img.shields.io/badge/Dev-fahadaliofficial-ff69b4?logo=google-chrome&logoColor=white)]([https://fahadali.me](https://dev.to/fahadaliofficial))
+
 
 ---
 
