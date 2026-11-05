@@ -2,7 +2,7 @@
 
 Welcome to my digital workshop! I'm a developer passionate about crafting intelligent solutions, automating the digital world, and exploring the frontiers of AI. Dive in to see what I've been building!
 
-🚀 **Python Expert | Automation & Web Scraping Specialist | Full-Stack Developer | AI/ML Developer | Computer Science Student | Freelancer**
+🚀 **Python Expert | Agent AI Automation & Web Scraping Specialist | Full-Stack Developer | AI/ML Developer | Computer Science Student**
 
 ---
 
@@ -21,8 +21,8 @@ Python · JavaScript · TypeScript · C# · C · C++ · Dart
 **AI/ML:**  
 Machine Learning · Deep Learning · Reinforcement Learning · TensorFlow · PyTorch
 
-**Automation & Scraping:**  
-Selenium · BeautifulSoup · Requests · Tkinter
+**Agentic Ai Automation & Scraping:**  
+OpenAI SDK · Selenium · BeautifulSoup · Requests · Tkinter
 
 **Web Full-Stack:**  
 HTML · CSS · TailwindCSS · React · Node.js · Next.js · Flask · jQuery · REST APIs
